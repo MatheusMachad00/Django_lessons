@@ -3,12 +3,3 @@ The challenge is to create an app to handle users.
 1- create an app 
 2- create a template named "register.html
 3- url users/register
-
-
-ordem para configurar um app:
-1- criar o app
-2- adicionar o app aos apps instalados (settings.py)
-3- criar um urls.py dentro da pasta do app
-4- atualizar a urlpattenrs do urls.py principal
-5- criar a função dentro do views.py do app
-6- criar template
